@@ -142,6 +142,22 @@ Portfolio/
 
 ---
 
+---
+
+## ⭐ SHOW YOUR SUPPORT
+
+> **🌟 Support 3D Creative Engineering:** If you enjoy this interactive 3D experience or find the custom WebGL2 shaders and physics engines valuable, please consider giving it a **Star ⭐ on GitHub**! It takes just 1 second and motivates future open-source graphics and systems tooling.
+
+<div align="center">
+
+<a href="https://github.com/Atulkumar5772/Portfolio">
+  <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPOSITORY-ON_GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=181717" height="42" alt="Star on GitHub" />
+</a>
+
+</div>
+
+<br/>
+
 ## ⚡ QUICK START (RUN LOCALLY)
 
 Clone and launch this 3D portfolio locally in just 3 commands:
@@ -175,5 +191,6 @@ npm run dev
 <sub>Engineered with precision, creativity, and passion by **Atul Kumar**.</sub>
 
 </div>
+
 
 
