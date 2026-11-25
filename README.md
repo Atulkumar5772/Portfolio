@@ -1,15 +1,18 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚡ ATUL KUMAR — 3D IMMERSIVE PORTFOLIO ⚡
 
 <br/>
 
-<a href="https://atulkumar5772.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/⚡_ENTER_THE_CYBERSPACE-LAUNCH_LIVE_3D_EXPERIENCE_▶-FF0055?style=for-the-badge&logo=three.js&logoColor=white&labelColor=090a0f" height="52" alt="Launch 3D Portfolio" />
+<a href="https://atulkumar5772.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_3D_PORTFOLIO-CLICK_HERE_TO_LAUNCH_▶-FF0055?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1f2937" height="54" alt="Open Live 3D Portfolio" />
 </a>
-<br/><br/>
 
 <br/><br/>
+
+🔗 **Live Website:** [https://atulkumar5772.github.io/Portfolio/](https://atulkumar5772.github.io/Portfolio/)
+
+<br/>
 
 [![Status](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white)](https://atulkumar5772.github.io/Portfolio/)
 [![Three.js](https://img.shields.io/badge/Three.js-0.169-black?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
