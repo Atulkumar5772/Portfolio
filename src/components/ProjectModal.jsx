@@ -112,7 +112,7 @@ export default function ProjectModal({ project, isOpen, onClose, onNavigate }) {
           <div className="relative w-full rounded-2xl bg-black/60 border border-white/10 p-2 sm:p-4 flex items-center justify-center overflow-hidden shadow-2xl">
             <img
               key={project.id}
-              src={project.poster || '/assets/thumbnails/project-1-1.jpg'}
+              src={project.poster || './assets/thumbnails/project-1-1.jpg'}
               alt={`${project.title} Architecture Preview`}
               className="max-h-[360px] sm:max-h-[440px] w-auto max-w-full object-contain rounded-xl shadow-lg transition-transform duration-500 hover:scale-[1.02]"
             />

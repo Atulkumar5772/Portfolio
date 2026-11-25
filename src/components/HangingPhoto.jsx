@@ -8,7 +8,7 @@ const Rb = 9e-4;
 const clamp = (val, max) => Math.max(-max, Math.min(max, val));
 
 export const HangingPhoto = ({
-  image = '/media/profile.webp',
+  image = './media/profile.webp',
   name = 'ATUL KUMAR',
   caption = 'SYSTEMS & BACKEND ARCHITECT',
 }) => {

@@ -124,7 +124,7 @@ export default function AboutSection({ onOpenResume }) {
         <div className="lg:col-span-5 flex justify-center relative lg:sticky lg:top-28">
           <div className="flex flex-col items-center pointer-events-auto">
             <HangingPhoto
-              image="/media/profile.webp"
+              image="./media/profile.webp"
               name="ATUL KUMAR"
               caption="SYSTEMS & BACKEND ARCHITECT"
             />

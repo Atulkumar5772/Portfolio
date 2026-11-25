@@ -13,7 +13,7 @@ import {
   stepSpring,
 } from '../lib/heroShards';
 
-const IMG_HERO_RED = '/assets/hero-red-bg.png';
+const IMG_HERO_RED = './assets/hero-red-bg.png';
 const SUBJECT_X = 0.70;
 
 export default function GlassShardHero() {

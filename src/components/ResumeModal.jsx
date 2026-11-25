@@ -10,7 +10,7 @@ export default function ResumeModal({ isOpen, onClose }) {
   };
 
   const handleOpenPdf = () => {
-    window.open('/Atul_Kumar_Resume.pdf', '_blank');
+    window.open('./Atul_Kumar_Resume.pdf', '_blank');
   };
 
   return (
@@ -50,7 +50,7 @@ export default function ResumeModal({ isOpen, onClose }) {
 
             {/* Direct Download */}
             <a
-              href="/Atul_Kumar_Resume.pdf"
+              href="./Atul_Kumar_Resume.pdf"
               download="Atul_Kumar_Resume.pdf"
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-mono text-slate-200 bg-white/5 hover:bg-white/10 border border-white/10 transition-all"
               title="Download PDF"
